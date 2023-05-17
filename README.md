@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-LucasRonzellaAmado/LucasRonzellaAmado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LucasRonzellaAmado/LucasRonzellaAmado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.- estou interes em  aprender sobre programção e tecnologia 
 You can click the Preview link to take a look at your changes.
 --->
