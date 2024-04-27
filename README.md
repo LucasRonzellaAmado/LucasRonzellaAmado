@@ -6,7 +6,7 @@
 
 🔠 Inglês básico
 
-📚 Especializando em Desenvolvedor Web e Sistemas
+📚 Especializando-se em Desenvolvimento Web e Sistemas
 
 💻 Focado em Full Stack
 
