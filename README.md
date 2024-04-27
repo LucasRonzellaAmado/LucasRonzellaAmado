@@ -22,7 +22,5 @@ Linguagens que conheço:
 
 -C
 
--PYTHON 
-
 -PHP
 
