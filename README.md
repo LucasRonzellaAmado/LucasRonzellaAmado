@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @LucasRonzellaAmado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👨‍💻 Desenvolvedor Web nível iniciante 
+🎓 Cursando Ciências da Computação na FAM (Faculdade de Americana) 
+🏠 Resido em Americana SP 
+🔠 Inglês básico
+📚 Especializando em Desenvolvedor Web e Sistemas 
+💻 Focado em Full Stack
 
-<!---
-LucasRonzellaAmado/LucasRonzellaAmado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.- estou interes em  aprender sobre programção e tecnologia 
-You can click the Preview link to take a look at your changes.
---->
+
+Linguagens que conheço:
+-HTML 5
+-CSS
+-JAVA SCRIPT
+-C
+-PYTHON 
+-PHP
