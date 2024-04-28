@@ -24,3 +24,5 @@ Linguagens que conheço:
 
 -PHP
 
+-Python 
+
