@@ -24,5 +24,5 @@ Linguagens que conheço:
 
 -PHP
 
--Python 
+-PYTHON
 
