@@ -1,6 +1,6 @@
-<!-- Cabeçalho animado com destaque para "Welcome" -->
+<!-- Cabeçalho animado com destaque para "Welcome to my GitHub!" -->
 <h1 align="center" style="font-size: 48px;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;FullStack+Dev+in+Progress!;Always+learning+and+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 ## About Me 😉
