@@ -1,6 +1,6 @@
-<!-- Cabeçalho animado tipo carrossel -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;I'm+Lucas+Ronzella+Amado;FullStack+Dev+in+Progress!;Always+learning+and+building+🚀" alt="Typing SVG" />
+<!-- Cabeçalho animado com destaque para "Welcome" -->
+<h1 align="center" style="font-size: 48px;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub!;FullStack+Dev+in+Progress!;Always+learning+and+building+🚀" alt="Typing SVG" />
 </h1>
 
 ## About Me 😉
@@ -50,5 +50,11 @@
 
 ## Contacts 📱
 
-- 📧 Email: lramado13@gmail.com  
-- 💼 LinkedIn: [Lucas Ronzella Amado](https://www.linkedin.com/in/lucas-ronzella-amado/)
+<p align="left">
+  <a href="mailto:lramado13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ronzella-amado/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
