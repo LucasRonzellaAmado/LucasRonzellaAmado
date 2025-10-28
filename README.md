@@ -7,7 +7,7 @@
 - 🎯 I'm Brazilian 🇧🇷  
 - 👨‍💻 Backend Development Intern 
 - 🧠 Passionate about tech and problem-solving  
-- 💻 Focused on Backend Web Development  
+- 💻 Focused on Backend Development  
 - 🔥 Always open to new challenges
 
 ---
