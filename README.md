@@ -5,7 +5,7 @@
 
 ## About Me 😉
 - 🎯 I'm Brazilian 🇧🇷  
-- 👨‍💻 Working as a Support Analyst  
+- 👨‍💻 Backend Development Intern 
 - 🧠 Passionate about tech and problem-solving  
 - 💻 Focused on FullStack Web Development  
 - 🔥 Always open to new challenges
