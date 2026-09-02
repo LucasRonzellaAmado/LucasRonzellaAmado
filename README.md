@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Analista+de+Pesquisa+e+Desenvolvimento;Computer+Science+Student;Backend+and+Fullstack+Developer"
+    src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Research+and+Development+Analyst;Computer+Science+Student;Backend+and+Fullstack+Developer"
     alt="Typing SVG"
   />
 </p>
@@ -11,12 +11,12 @@
 
 # 👨‍💻 About Me
 
-* 🇧🇷 Brazilian Developer
-* 💼 Research and Development Analyst
-* 🎓 Computer Science Student
-* 🧠 Passionate about technology and problem-solving
-* 💻 Focused on Backend and Fullstack Development
-* 🚀 Always looking for new challenges and opportunities to learn
+- 🇧🇷 Brazilian Developer
+- 💼 Research and Development Analyst
+- 🎓 Computer Science Student
+- 🧠 Passionate about technology and problem-solving
+- 💻 Focused on Backend and Fullstack Development
+- 🚀 Always looking for new challenges and opportunities to learn
 
 ---
 
@@ -78,13 +78,13 @@
 <p align="center">
 
 <img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=amado13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  height="180em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amado13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
 />
 
 <img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amado13&layout=compact&langs_count=7&theme=tokyonight"
+  height="180em" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amado13&layout=compact&langs_count=7&theme=tokyonight"
 />
 
 </p>
@@ -97,13 +97,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amado13&layo
 
 <a href="https://github.com/amado13/jogo">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=amado13&repo=jogo&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amado13&repo=jogo&theme=tokyonight"
   />
 </a>
 
 <a href="https://github.com/amado13/portifolio">
   <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=amado13&repo=portifolio&theme=tokyonight"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amado13&repo=portifolio&theme=tokyonight"
   />
 </a>
 
@@ -122,7 +122,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=amado13&layo
   />
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/lucas-ronzella-amado/">
   <img 
